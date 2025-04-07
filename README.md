@@ -2,6 +2,10 @@
 
 *A chatbot for talking about Wikipedia articles.*
 
+## Update!
+
+**Check out the production version here!!:** https://github.com/nating/wikichat
+
 ## How to use it
 
 To run the project, you'll be required to run some commands in your terminal:
